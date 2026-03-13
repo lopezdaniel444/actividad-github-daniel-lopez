@@ -1,0 +1,5 @@
+Carlos Daniel Lopez Valdes
+10-03-2026
+Que el alumno practique el flujo completo de trabajo en GitHub partiendo desde cero: crear un repositorio nuevo, clonarlo, trabajar en una rama, realizar cambios y generar un Pull Request (PR).
+Pull Request:
+Es una funcionalidad que permite a los desarrolladores solicitar la revisión y fusión de cambios realizados en una rama de código a otra, generalmente de una rama de desarrollo a la rama principal 
